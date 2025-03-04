@@ -16,6 +16,9 @@ Identify and describe at least three key milestones in the evolution of software
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
+1.1968 NATO Conference – Introduced the term software engineering to address the software crisis, emphasizing structured development and better project management.
+2.1970s Structured Programming – Promoted modular design and control structures, improving software maintainability and reducing chaotic coding practices.
+3.2001 Agile Manifesto – Introduced iterative development, collaboration, and flexibility, replacing rigid Waterfall models with Agile methodologies like Scrum and Kanban.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
