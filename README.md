@@ -8,6 +8,9 @@ Explain what software engineering is and discuss its importance in the technolog
 software engineering is the discipline of designing,developing,testing and maintaining software systems. 
 Importances of software engineering includes:
 Enabling innovation: whether its artificial intelligence,cloud computing or mobile apps software engineers design and build the systems that power advancements allowing creation of cutting edge technologies and platforms that drive innovation.
+Security: with the growing prevalence of cyber threats, software engineering help in implementing best practices for data encryption, secure coding and system monitoring to protect sensitive information and user privacy.
+Sustainability: by creating maintainable and modular systems,engineers can adapt software over time to meet changing requirements or emerging technologies through products that evolve with minimal disruption.
+Scalability: software engineering principles ensures that software is designed to scale effectively, accommodating growing user bases and increasing data demands.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
